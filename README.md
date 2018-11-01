@@ -1,188 +1,103 @@
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+﻿# Hacktoberfest 2018 Easy First Pull Request
 
-## Your First Pull Request - Hacktoberfest 2018
-I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
+Add your Name to this README.md file to Submit your first Pull Request for Hacktoberfest 2018!
 
-### What is Hacktoberfest?
-
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software. You have to register and make five pull requests to any github repo (including this one!) in the month of october. If you do that you get a tshirt :tshirt: and stickers for your laptop :computer: . Sounds interesting? Let's do it then!
-
-### Wait...what is github?!
-
-I get it. You are new to this whole thing. But don't worry, here is a great [guide](https://guides.github.com/activities/hello-world/) to help you understand.
-
-### Contribution Guide
-
-To Contribute in a proper way so that I can merge the pull request:
-
-1. Star the repo! :star:
-2. Fork it. (Important!) [What is that?](https://help.github.com/articles/fork-a-repo/)
-3. Edit the README.md file.
-4. Copy the below code and replace with your github user name. Add after the last one in the file.
-
-    ```
-   * [yourusernamehere](https://github.com/yourusernamehere)
-    ```
-5. Commit with a message. ( Or write "Wakanda Forever!")
-6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-7. Done!
-
-[Want more free t-shirts like this one? Check this out!](https://github.com/Joonsang1994/free-tshirts-stickers-and-swag-for-developers)
-
-If you like my work, [please be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps me cover costs :smiley:
-
-Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories)
-
-#### Happy Hacktoberfest :tada: :fireworks:
-
--------------------------------------------------------------------------------------------------
-
-### Contributors:
-
-* [Joonsang1994](https://github.com/Joonsang1994)
-* [gmacario](https://github.com/gmacario)
-* [marcopetreri](https://github.com/marcopetreri)
-* [mdelclaro](https://github.com/mdelclaro)
-* [jonathangin52](https://github.com/JonathanGin52)
-* [Charlye](https://github.com/costassolla)
-* [csp98](https://github.com/csp98)
-* [dreamcatcher12](https://github.com/dreamcatcher12)
-* [yurrr](https://github.com/yurrr)
-* [brandon-meeks](https://github.com/brandon-meeks)
-* [kartikeytripathi](https://github.com/kartikeytripathi)  
-* [maralucilg](https://github.com/maralucilg)
-* [kartikeytripathi](https://github.com/kartikeytripathi)
-* [bwoconnor](https://github.com/bwoconnor)
-* [jtkaufman737](https://github.com/jtkaufman737)
-* [DanielCustDuran](https://github.com/DanielCustDuran)
-* [vanessa](https://github.com/vanessa)
-* [jesspetersen](https://github.com/jesspetersen)
-* [twyststar](https://github.com/twyststar)
-* [Nishant-Mittal](https://github.com/nishantmittal59)
-* [Arendt](https://github.com/Arendt)
-* [Endless7188](https://github.com/endless7188)
-* [PerhapsSomeone](https://github.com/PerhapsSomeone)
-* [fractional-ray](https://github.com/fractional-ray)
-* [jlozadad](https://github.com/jlozadad)
-* [Alex Niebuhr](https://github.com/alexanderniebuhr)
-* [makmm](https://github.com/makmm)
-* [jessicalim8](https://github.com/JessicaLim8)
-* [mohancm](https://github.com/mohancm)
-* [AkdM](https://github.com/AkdM)
-* [riyabhatia26](https://github.com/riyabhatia26)
-* [waysp](https://github.com/waysp)
-* [Yudhst](https://github.com/yudhst)
-* [sidhyatikku](https://github.com/sidhyatikku)
-* [Trol1337](https://github.com/Trol1337)
-* [Bruno](https://github.com/dunderbruno)
-* [goayandi](https://github.com/goayandi)
-* [bl4ckp4nther](https://github.com/bl4ckp4nther)
-* [goayandi](https://github.com/goayandi)
-* [umarbrowser](https://github.com/umarbrowser)
-* [meditat](https://github.com/meditat)
-* [amslv](https://github.com/amslv)
-* [2wce](https://github.com/2wce)
-* [mohit17067](https://github.com/Mohit17067)
-* [thecoderkd](https://github.com/thecoderkd)
-* [ElanVB](https://github.com/ElanVB)
-* [Bhupesh-V](https://github.com/Bhupesh-V)
-* [daithiscully](https://github.com/daithiscully)
-* [Hydrowind](https://github.com/Hydrowind)
-* [bhaskarmac](https://github.com/bhaskarmac)
-* [Pitasi](https://github.com/Pitasi)
-* [rpeloff](https://github.com/rpeloff)
-* [zotamias](https://github.com/zotamias)
-* [e-joyce](https://github.com/e-joyce)
-* [technonerdz](https://github.com/technonerdz)
-* [KedarisettiSreeVamsi](https://github.com/KedarisettiSreeVamsi)
-* [Yee](https://github.com/antonioyee)
-* [k33k00](https://github.com/k33k00)
-* [lohanidamodar](https://github.com/lohanidamodar)
-* [ltkills](http://github.com/ltkills)
-* [askmhs](https://github.com/askmhs)
-* [Tiamiyu Abidemi](https://github.com/AbidemiT)
-* [rachitmanchanda](https://github.com/rachitmanchanda)
-* [aedorado](https://github.com/aedorado)
-* [Mindjolt2406](https://github.com/Mindjolt2406)
-* [KyleCotton](https://github.com/KyleCotton)
-* [jthodge](https://github.com/jthodge)
-* [vipul-11](https://github.com/vipul-11)
-* [rhlmshr](https://github.com/rhlmshr)
-* [Tiago-OP](https://github.com/Tiago-OP)
-* [krol](https://github.com/krol3)
-* [Akashraj98](https://github.com/Akashraj98)
-* [kembolino](https://github.com/kembolino)
-* [Zornitsa Asanska](https://github.com/ZornitsaAsanska)
-* [mani1soni](https://github.com/mani1soni)
-* [aparimeet](https://github.com/aparimeet)
-* [jamal-pb95](https://github.com/jamal-pb95)
-* [chanchalv18](https://github.com/chanchalv18)
-* [Oluwasetemi](https://github.com/Oluwasetemi)
-* [louzogh](https://github.com/Louzogh)
-* [MysticSeagull](https://github.com/Justinborzi)
-* [nhrkr](https://github.com/nhrkr)
-* [gpeden](https://github.com/gpeden)
-* [kelseyrwarner](https://github.com/kelseyrwarner)
-* [diemax](https://github.com/diemax)
-* [FoteiniK](https://github.com/FoteiniK)
-* [LalitKushwah](https://github.com/LalitKushwah)
-* [ericmshen](https://github.com/ericmshen)
-* [jonas-martinez](https://github.com/jonas-martinez)
-* [sittichoke](https://github.com/sittichoke)
-* [TagLog](https://github.com/NJOYSoftware)
-* [dennydap](https://github.com/dennydap)
-* [indraarianggi](https://github.com/indraarianggi)
-* [VINEESHGUPTA](https://github.com/VINEESHGUPTA)
-* [Pielgrin](https://github.com/Pielgrin)
-* [luckycoder1030](https://github.com/luckycoder1030)
-* [AndikaNugraha11](https://github.com/AndikaNugraha11)
-* [ps011](https://github.com/ps011)
-* [JoeChrys](https://github.com/JoeChrys)
-* [reesea](https://github.com/reesea)
-* [nryberg](https://github.com/nryberg)
-* [Luana-Menezes](https://github.com/Luana-Menezes)
-* [codali](https://github.com/codali)
-* [chireia](https://github.com/chireia)
-* [rohit-mp](https://github.com/rohit-mp)
-* [AtoMc](https://github.com/AtoMc)
-* [dkudriavtsev](https://github.com/dkudriavtsev)
-* [M4l2tIlV](https://github.com/M4l2tIlV)
-* [Arham-Aalam](https://github.com/Arham-Aalam)
-* [PavanDongare](https://github.com/PavanDongare)
-* [t-howell](https://github.com/t-howell)
-* [archieherbias](https://github.com/archieherbias)
-* [Vishnu](https://github.com/vishnuvardhan2005)
-* [jordiprats](https://github.com/jordiprats)
-* [thomashockaday](https://github.com/thomashockaday)
-* [danbarcinas](https://github.com/danbarcinas)
-* [CrickSoldier](https://github.com/CrickSoldier)
-* [Mister-maker](https://github.com/Mister-maker)
-* [ThomasChr](https://github.com/ThomasChr)
-* [Raj-Kumar](https://github.com/rajcrk)
-* [thesagarpasrija](https://github.com/thesagarpasrija)
-* [fiodr23](https://github.com/fiodr23)
-* [devAmoghS](https://github.com/devAmoghS)
-* [SoftCreatR](https://github.com/SoftCreatR)
-* [jamieburnip](https://github.com/jamieburnip)
-* [fidriz20](https://github.com/fidriz20)
-* [Saakshi29](https://github.com/Saakshi29)
-* [Sharma-Hrishabh](https://github.com/Sharma-Hrishabh)
-* [necrashter](https://github.com/necrashter)
-* [CMax](https://github.com/TheCMaxGuy)
-* [ixjosemi](https://github.com/ixjosemi)
-* [momo5502](https://github.com/momo5502)
-* [ManoRanjith](https://github.com/ManoRanjithK)
-* [Ravish](https://github.com/ravish1729)
-* [Farzan](https://github.com/scorpion-kali)
-* [alanpaura](https://github.com/alanpaura)
-* [msaoudallah](https://github.com/msaoudallah)
-* [mvfc](https://github.com/mvfc)
-* [Rohan Bajpai](https://github.com/bajpairohan6306)
-* [Dominoanty](https://github.com/dominoanty)
-* [sanesedu](https://github.com/sanesedu)
-* [tyeung2017](https://github.com/tyeung2017)
-* [yazdipour](https://github.com/yazdipour)
-* [blackpanther99](https://github.com/blackpanther99)
-* [nrsalmon](https://github.com/nrsalmon)
-
-
+1. Adly Loukil
+2. Arghyadeep Das
+3. Nicolas Fernandez
+4. MasterKN48
+5. DarkSun27
+6. blackwolf08
+7. Hk10010010
+8. Kunal Sonawane
+9. John Ennis
+10. Alexandre Pereira Santos
+11. Peter Haddad
+12. Nazar Nasirzada
+13. Atiqah Hafiz
+14. HackedByMKN
+15. exilednick
+16. e20zip
+17. Lufi
+18. Witaya Tospitakkul
+19. Pankhuri Kasliwal
+20. Arendt
+21. Arjun Rajpal
+22. Arwin Neil
+23. Andrey Serbin
+24. Rachel Stratemeier
+25. Javi
+26. Fraser
+27. Steev James
+28. Richard Davis
+29. Yordan Zhelev
+30. Mohammad Wahyu Sanusi Putra
+31. thvardhan
+32. Eric Moynihan
+33. Aaron Rodriguez
+34. Shayan
+36. Anushka Bhandari
+37. Prabhu Sharan Singh
+38. TrAnn3l
+39. Ana Letícia
+40. khawoat6
+41. LW001
+42. Aditya Singhal
+43. Nythiennzo
+44. Sam Mansch
+45. Fahmi Muhammad
+46. Mahmoud Geberty
+47. Dhanajayan K
+48. Amrita Singha Roy
+49. Tania Nag
+50. MrWouterNL
+51. Lucas van Beek
+52. Yvan Watchman
+53. Muhammad Fahmy Amirun Nizar
+54. Thomas Letsch Groch
+55. janises
+56. Bambang Supriadi
+57. Putu Jaya Adi Pranata
+58. Luciano Santos
+59. William Francis
+60. João Vitor de Paiva Freitas
+61. Michal Cerman
+62. Shehani Ranasinghe
+63. Ricardo Jacinto
+64. Putu Jaya Adi Pranata
+65. Gabriel Araujo
+66. Vishal Kichloo
+67. JAMES BABU
+68. Kelvin Osh
+69. Yasmin Zulfati Yusrina
+70. Deyan Atanasov
+71. Rahul R
+72. Adam Purcell
+73. Jeff attride
+74. Adam Purcell
+75. Nathan Fiscus
+76. Rajan Girsa
+77. Connor Smith
+78. Uyen Nguyen
+79. Aaditya Phadnis
+80. Emanuel Palm
+81. Samuel Rowe
+82. Harsh Trivedi
+83. Samann Pinder
+84. Meursault
+85. swt02026
+86. elf11
+87. Ghous Ahmed
+88. Omer Faruk
+89. Aditya Prajapati
+90. Grace!
+91. SemicolonExpected
+92. Victorpy
+93. Jimothy Sanderz
+94. Kishan King
+95. Lenny
+96. Prim AcNEO
+97. Mounika Smitha
+98. Keegan Lawley
+99. Marcelo da Silva
+100.Onyx Cipher
